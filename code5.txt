@@ -1,0 +1,42 @@
+finger print sensor pin config
+
+red 5v
+black gnd
+yellow pin 2
+green pin 3
+
+
+for esp32
+
+red 5v 
+black gnd
+yellow pin 4
+green pin 5
+
+order for fingerprint sensor:  green yellow black red
+
+
+actuator pins for led lights 34, 32, 25
+
+
+
+sim900 gsm module 
+
+rx to 19
+tx to 18
+vcc to 3.7v
+gnd to gnd
+
+
+stepper motor driver
+
+in1 to 12
+in2 to 14
+in3 to 27
+in4 to 26
+gnd to gnd
+12v to 12v
+
+
+
+
